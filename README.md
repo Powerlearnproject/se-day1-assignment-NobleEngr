@@ -14,8 +14,8 @@ IMPORTANCE OF SOFTWARE ENGINEERING IN THE TECHNOLOGY INDUSTRY
 3. Enhances security: in an era where cybersecurity threats are prevalent, software engineering is essential for securing software systems. To protect software systems from harmful and malicious attacks, engineers adhere to best practices in threat modeling, vulnerability testing and secure coding.
 4. Supports maintenance and upgradability: maintainable code is emphasized significantly in software engineering as it facilitates software updates and enhancements over time. This is crucial for long-term projects where softwares must adapt to evolving user needs and emerging tecchnologies.
 5. Supports business goals: businesses need high-quality software to accomplish their goals, whether through automating operations, providing services to customers or generating insights from data. Software engineering ensures that software projects are delivered on time, within budget and in line with business goals.
-6. Enables innovation: in the rapidly evolving tech industry, software engineering enables an environment for exploring creative ideas, tools, and technologies while managing risks. For businesses to uphold their competitive edge and take the lead in their respective markets, striking a balance between innovation and stability is vital.     
-
+6. Enables innovation: in the rapidly evolving tech industry, software engineering enables an environment for exploring creative ideas, tools, and technologies while managing risks. For businesses to uphold their competitive edge and take the lead in their respective markets, striking a balance between innovation and stability is vital.
+     
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
@@ -39,19 +39,23 @@ The Software Development Life Cycle (SDLC) is a structured approach to software 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 WATERFALL METHODOLGY: this follows a sequential and linear approach, where each phase of the software development lifecycle must be completed before moving to the next. The phases typically includes requirements gathering and analysis, design, coding, testing, deployment and maintenance. It emphasizes thorough documentation and planning at each stage. Changes are difficult to implement once a phase is completed.
+
 ADVANTAGES OF WATERFALL METHODOLOGY
 1. Clear structure: easy to understand and manage due to its linear nature.
 2. Predictability: well-suited for projects with well-understood requirements and low risk of change.
 3. Documentation: extensive documentation helps in understanding the project and maintaining it later.
+
 DISADVANTAGES OF WATERFALL METHODOLOGY
 1. Inflexibility: difficult to accomodate changes once a phase is completed.
 2. Late Testing: testing occurs only after the project is completed, which can lead to discovering issues late in the development cycle.
 3. Customer Feedback: limited opportunity for customer feedback during development, which may result in a product that does not fully meet user needs.
-APPROPRIATE SCENARIOS
+
+APPROPRIATE SCENARIOS FOR WATERFALL METHODOLOGY
 1. Small projects: works well for projects with a straightforward scope and predictable outcomes.
 2. Well-defined requirements projects: suitable for projects with clear and stable requirements that are unlikely to change.
 3. Regulated industries: ideal for industries like healthcare, where strict adherence to documentation and processes is required.
-EXAMPLES:
+
+EXAMPLES OF WATERFALL METHODLOGY SCENARIOS:
 1. Developing a simple business application where requirementrs are well-understood and unlikely to change during development.
 2. Construction of a building
 
